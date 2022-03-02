@@ -1,1 +1,1 @@
-This is the source for the public website found on www.hanekammen.no
+This is the source for the public website found on www.andreashanekamhaug.no
